@@ -8,3 +8,4 @@
         "https://raw.githubusercontent.com/Clb184/Clb184-stuff/master/"
     ],
     "title": "Clb184 stuff"
+}
