@@ -1,0 +1,27 @@
+Playable Hatate for Touhou Kaeidzuka ~ 
+Phantasmagoria of Flower View by Clb184
+========================================
+
+This mod is just a re-skin for Aya A to "play" as Hatate Himekaidou.
+All the sprites were taken from Double Spoiler and are property of ZUN.
+
+
+v1.0 (15/03/2021)
+=================
+
+First version of this mod, when i was starting with all those things...
+Used sprites from Double Spoiler and edited some of them to put into the
+game.
+
+- Replaced Aya B sprites with Aya A ones.
+- Replaced Aya and Hatate Spell Card background with the ones they use in DS.
+
+v1.1 (24/05/2021)
+=================
+
+Now that my knowledge about ANM scripts has increased, i'm polishing
+some things, so the animations won't look weird.
+
+- Re-made the Spell Card Background.
+- Changed some movement scripts for Hatate sprites.
+- Added attack animations for Hatate in Boss sprites.
