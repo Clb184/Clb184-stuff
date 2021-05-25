@@ -25,3 +25,4 @@ some things, so the animations won't look weird.
 - Re-made the Spell Card Background.
 - Changed some movement scripts for Hatate sprites.
 - Added attack animations for Hatate in Boss sprites.
+- Now Hatate has her own portrait in the Select Player screen.
