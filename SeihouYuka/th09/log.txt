@@ -1,0 +1,14 @@
+Seihou Yuka for Touhou Kaeidzuka ~ 
+Phantasmagoria of Flower View by Clb184 and WilliamDavi
+=======================================================
+
+This mod is just a re-skin for Yuka B to "play" as her Kioh Gyoku version.
+All the sprites were taken from Seihou Kioh Gyoku and are property of Amusement Makers.
+Thanks to WilliamDavi for decompiling Yuka's sprites.
+
+v1.0 (09/07/2021)
+=================
+I need to know how to separate the animations for both, PoFV and KG...
+
+- Changed Yuka B sprites (Boss and Player) with her Kioh Gyoku ones.
+- Changed ECL to use the animations (Would look weird with original TH09 sprites).
