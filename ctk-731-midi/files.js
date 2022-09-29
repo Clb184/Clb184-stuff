@@ -1,5 +1,5 @@
 {
-	"Universal THCRAP Launcher.lnk": 1840866288,
+	"Universal THCRAP Launcher.lnk": null,
 	"bgm/th06_01.wav": null,
 	"bgm/th06_02.wav": null,
 	"bgm/th06_03.wav": null,
