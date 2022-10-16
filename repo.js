@@ -4,7 +4,8 @@
 	"patches": {
 		"PlayableHatate": "TH09. Replaces Aya A sprites with Hatate sprites",
 		"SeihouYuka": "TH09. Replaces Yuuka sprites with her Kioh Gyoku sprites.",
-		"ctk-731-midi": "TH06-07-08-09. Replaces the BGMs with recordings of MIDIs of the games played on my Casio CTK-731."
+		"ctk-731-midi": "TH06-07-08-09. Replaces the BGMs with recordings of MIDIs of the games played on my Casio CTK-731.",
+		"th17ep_ssg": "(TH17 E+): (WIP) Shuusou Gyoku in ECLPlus, Extra Stage available only with Reimu Bossfight."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Clb184/",
